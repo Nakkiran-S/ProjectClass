@@ -25,4 +25,18 @@ public class ClassA {
 		System.out.println("6");
 
 }
+	   
+private void TamilNadu() {
+	System.out.println("Tamil");
+
+}
+   private void Kerala() {
+	System.out.println("Malayalam");
+
+}
+   private void Gujarat() {
+	System.out.println("Hindi");
+
+}  
+
 }
